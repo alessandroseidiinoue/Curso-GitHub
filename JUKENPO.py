@@ -41,3 +41,4 @@ elif cpu == 2:
         print('Jogada Inválida')
 print('Computador jogou {}'.format(itens[cpu]))
 print('Jogador jogou {}'.format(itens[jogador]))
+print('Teste Commit')
